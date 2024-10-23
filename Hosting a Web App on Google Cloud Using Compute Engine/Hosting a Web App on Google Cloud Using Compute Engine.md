@@ -4,7 +4,7 @@
 
 ### Run the following Commands in CloudShell
 ```
-export ZONE=
+export ZONE=us-east1-c
 ```
 ```
 curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Hosting%20a%20Web%20App%20on%20Google%20Cloud%20Using%20Compute%20Engine/gsp662-1.sh
